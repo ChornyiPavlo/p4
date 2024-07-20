@@ -111,7 +111,7 @@ body::-webkit-scrollbar-thumb {
 
 .disclaimer {
   position: relative;
-  font-weight: 700;
+  font-family: "Poppins", serif;
   font-size: 12px;
   line-height: 18px;
   padding: 20px 0;
