@@ -189,6 +189,11 @@ body::-webkit-scrollbar-thumb {
   text-decoration: none;
   color: #FFFFFF;
 }
+
+.button:hover {
+  transform: scale(1.05);
+}
+
 .info__subtitle {
   font-family: 'Poppins', sans-serif;
   font-style: normal;
